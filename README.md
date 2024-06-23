@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyangshu Jash
+- 👋 Hi, I’m @Priyangshu-2005
 - 👀 I’m interested in ...Computers and programming
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
